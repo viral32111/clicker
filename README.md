@@ -2,6 +2,8 @@
 
 My attempt at developing an infinite idle clicker game in Unity for mobile.
 
+![Clicker](/Screenshot.png)
+
 ## Sources
 
 * https://forum.unity.com/threads/canvas-panel-background-image.345290/
